@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+/* Import Custom Fonts */
+
+/* Arabic Fonts */
+@font-face {
+  font-family: IBM;
+  src: url("../public/fonts/arabic/IBM/IBMPlexSansArabic-Bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: IBM;
+  src: url("../public/fonts/arabic/IBM/IBMPlexSansArabic-Thin.ttf");
+  font-weight: bolder;
+}
+@font-face {
+  font-family: IBM;
+  src: url("../public/fonts/arabic/IBM/IBMPlexSansArabic-Light.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: IBM;
+  src: url("../public/fonts/arabic/IBM/IBMPlexSansArabic-Regular.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: IBM;
+  src: url("../public/fonts/arabic/IBM/IBMPlexSansArabic-Medium.ttf");
+  font-weight: 600;
+}

@@ -1,0 +1,13 @@
+root {
+  font-family: IBM;
+}
+
+
+body {
+  height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #0048c9;
+  direction: rtl;
+}
